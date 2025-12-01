@@ -1,0 +1,20 @@
+# ----- AI & Frameworks -----
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+
+# ----- Web API -----
+fastapi
+uvicorn
+
+# ----- UI -----
+streamlit
+requests
+
+# ----- Utitilies -----
+python-dotenv
+pydantic
+tiktoken
+youtube-transcript-api
