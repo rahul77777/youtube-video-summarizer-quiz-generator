@@ -54,7 +54,7 @@ You will run **two terminals simultaneously** — one for backend and one for fr
 Navigate to the project directory:
 
 ```
-yt-quiz-generator/
+youtube-video-summarizer-quiz-generator/
 ```
 
 Install dependencies:
